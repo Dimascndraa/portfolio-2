@@ -10,6 +10,9 @@ ul li a{
 	position: absolute;
 	right: 0;
 }
+.margiin{
+	margin-right: -40rem;
+}
 
 body{
 	margin-top: 50px;
