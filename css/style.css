@@ -23,10 +23,10 @@ body {
 .jumbotron {
   height: 100vh;
   background-image: url(../img/bg-header.png);
-  /* background-size: cover; */
+  background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed; 
-  background-position: -50px -0px;
+  /* background-position: -50px -0px; */
   overflow: hidden;
 }
 
@@ -59,6 +59,7 @@ body {
   margin: 5px;
 }
 .jumbotron h1 {
+  font-size: 1.5rem;
   margin-top: 30vh;
 }
 
